@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "first-bolt-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.4.1"
+  }
+}
